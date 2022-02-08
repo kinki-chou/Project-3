@@ -1,0 +1,1 @@
+# kinki-chou.github.io
