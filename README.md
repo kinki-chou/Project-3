@@ -1,16 +1,18 @@
 # Hi!
 
-I'm trying to make a little website.
+20220209
 
-~~(I knew that I can't do it)~~
-*but I can try*~~?~~
+> I'm trying to make a little website.
 
-I just like... play it(?)
+> ~~(I knew that I can't do it)~~
+> *but I can try*~~?~~
 
-**Don't think about it! lol**
+> I just like... play it(?)
 
-I will submit my code when I finish coding.
+> **Don't think about it! lol**
 
-**I'm not finish my code!**
+> I will submit my code when I finish coding.
 
-If I finish my code,you can clink [this link](http://kinki-chou.github.io/script/index/index.html).
+> **I'm not finish my code!**
+
+> If I finish my code,you can clink [this link](http://kinki-chou.github.io/script/index/index.html).
