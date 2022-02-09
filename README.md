@@ -13,6 +13,6 @@ I just like... play it(?)
 
 I will submit my code when I finish coding.
 
-**I'm not finish my code!**
+**I do not finish my code!**
 
 If I finish my code,you can clink [this link](http://kinki-chou.github.io/index.html).
