@@ -16,3 +16,5 @@ I will submit my code when I finish coding.
 **I do not finish my code!**
 
 If I finish my code,you can clink [this link](http://kinki-chou.github.io/index.html).
+
+If you can't speak Chinese, please don't clink that link. ~~Maybe you can after now~~
