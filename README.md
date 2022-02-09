@@ -1,7 +1,5 @@
 # Hi!
 
-> 20220209
-
 I'm trying to make a little website.
 
 ~~(I knew that I can't do it)~~
@@ -17,4 +15,4 @@ I will submit my code when I finish coding.
 
 If I finish my code,you can clink [this link](http://kinki-chou.github.io/index.html).
 
-If you can't speak Chinese, please don't clink that link. ~~Maybe you can after now~~
+> 2022.02.09
