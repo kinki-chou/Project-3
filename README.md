@@ -15,4 +15,9 @@ I will submit my code when I finish coding.
 
 If I finish my code,you can clink [this link](http://kinki-chou.github.io/index.html).
 
-> 2022.02.09
+> 2022.02.10
+
+I forget to say a thing.
+This website wasn't friendly to not Chinese.
+
+If you are't Chinese, good luck.
