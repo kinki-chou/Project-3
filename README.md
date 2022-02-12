@@ -23,3 +23,9 @@ I forget to say a thing.
 This website wasn't friendly to not Chinese.
 
 If you are't Chinese, good luck.
+
+> 2022.02.12
+
+I write a little code for the index.
+
+I want to add a lucky part. ~~But I can't do it.(QAQ)~~
