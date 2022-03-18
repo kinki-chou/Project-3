@@ -1,5 +1,9 @@
 # [Hi!](http://kinki-chou.github.io/index.html)
 
+> 2022.03.18
+
+I... ~~(Y'know)~~
+
 > 2022.03.12
 
 I just forgot the project , again again and again. 
