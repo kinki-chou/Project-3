@@ -7,6 +7,7 @@
     <link rel="stylesheet" type="text/css" href="./styles/public.css">
     <link rel="stylesheet" type="text/css" href="./styles/index.css">
     <link rel="icon" href="./things/images/icon.ico" type="image/x-icon" />
+    <script src="./script/index/index.js"></script>
     <title>Kinki的小站点</title>
 </head>
 <body>
@@ -22,7 +23,33 @@
             <li class="nav-li"><a href="#" class="nav-li-a">敬请期待</a></li>
         </ul>
     </nav>
-    <h1 class="body-header">公告</h1>
-    <p class="gg">主页的基础骨架已经想好，但心有余而力不足~~~</p>
+    <div class="luogu">
+        <span class="left">
+            <h2 class="body-header">公告</h2>
+            <p class="gg">主页的基础骨架已经想好，正在疯狂查百度中……</p>
+        </span>
+        <span class="right">
+            <h3 class="cj-title" id="cj-answer">Hi, 抽个签吧</h3>
+            <div class="good">
+                <span class="cj-content-title"><b>宜</b>：???</span>
+                <br />
+                <span class="cj-content">???</span>
+                <br />
+                <span class="cj-content-title"><b>宜：</b>???</span>
+                <br />
+                <span class="cj-content">???</span>
+            </div>
+            <div class="bad">
+                <span class="cj-content-title"><b>忌：</b>???</span>
+                <br />
+                <span class="cj-content">???</span>
+                <br />
+                <span class="cj-content-title"><b>忌：</b>???</span>
+                <br />
+                <span class="cj-content">???</span>
+            </div>
+            <a class="cj-button" id="cj-button" onclick="cj()" title="抽吧^_^">抽个签签</a>
+        </span>
+    </div>
 </body>
 </html>
