@@ -2,7 +2,7 @@
 
 > 2022.03.19
 
-I finished the luck part!!!~~(F`ck)~~
+I finished the luck part!!!~~(F*ck)~~
 
 > 2022.03.18
 
