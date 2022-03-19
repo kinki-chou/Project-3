@@ -1,5 +1,9 @@
 # [Hi!](http://kinki-chou.github.io/index.html)
 
+> 2022.03.19
+
+I finished the luck part!!!~~(F`ck)~~
+
 > 2022.03.18
 
 I... ~~(Y'know)~~
