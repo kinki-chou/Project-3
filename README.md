@@ -1,5 +1,9 @@
 # [Hi!](http://kinki-chou.github.io/index.html)
 
+> 2022.04.01
+
+Happy April Fourth!!!
+
 > 2022.03.25
 
 Coding...
