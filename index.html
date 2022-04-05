@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="./styles/public.css">
     <link rel="stylesheet" type="text/css" href="./styles/index.css">
     <link rel="icon" href="./things/images/icon.ico" type="image/x-icon" />
-    <script src="./script/index/index.js"></script>
+    <script src="./script/index.js"></script>
     <title>Kinki的小站点</title>
 </head>
 <body>
@@ -20,14 +20,14 @@
             <li class="nav-li"><a href="./bbs.html" class="nav-li-a">论坛</a></li>
             <li class="nav-li"><a href="./blog.html" class="nav-li-a">博客</a></li>
             <li class="nav-li"><a href="./tools.html" class="nav-li-a">工具</a></li>
-            <li class="nav-li"><a href="#" class="nav-li-a">敬请期待</a></li>
+            <li class="nav-li"><a class="nav-li-a" id="soon" onclick="special()">敬请期待</a></li>
         </ul>
     </nav>
     <div class="luogu">
         <span class="left">
             <h2 class="body-header">公告</h2>
-            <p class="gg">主页的基础骨架已经想好，正在疯狂查百度中……抽奖部分要好了！</p>
-            <p class="gg">说件事，我急需像<a href="./special/4-1-1.html">这样</a>的抽签文案，有人能帮帮我嘛~~~</p>
+            <p class="gg">主页的基础骨架已经想好，正在疯狂查百度中……</p>
+            <p class="gg">说件事，我需要像<a href="./special/4-1-1.html">这样</a>的抽签文案，有人能帮帮我嘛~~~</p>
             <p class="gg"><a href="./special/4-1-2.html">关于清明节放假时间延长至七天的通知</a></p>
         </span>
         <span class="right">
@@ -52,7 +52,7 @@
                 <span class="cj-content" id="cj4-content">???</span>
                 <br /><br />
             </div>
-            <a class="cj-button" id="cj-button" onclick="cj()" title="抽吧^_^">抽个签签</a>
+            <a id="cj-button" onclick="cj()" title="抽吧^_^">抽个签签</a>
         </span>
     </div>
 </body>
